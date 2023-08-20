@@ -1,2 +1,2 @@
 import './formulario.js'
-import './validarCantidad.js'
+import './lineaPasos.js'
